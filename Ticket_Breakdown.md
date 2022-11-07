@@ -18,14 +18,14 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 ## Your Breakdown Here
 
 1. Create and add new custom ids column in Agents table where current internal ids column exists. 
-Time est: 15 min.
+Time estimate: 15 min.
 
 2. Create and add new input functionality for facilities to input and save their custom ids. 
-Time est: 3-4 hours 
+Time estimate: 2-3 hours 
 
 3. Modify `getShiftsByFacility` and `generateReport` functions to incorporate new customids when fetching the Agent's metadata. 
 When fetching the data make sure custom ids are included as a parameter to include into the report. 
-Time est: 45 min.
+Time estimate: 45 min.
 
 4. Test and check if new custom ids are being displayed correctly in the generated report. Generate a report and see if the pdf consists of new custom ids being printed and check the correct custom id is being printed that the facility expects. 
-Time est: 15 min
+Time estimate: 15 min
